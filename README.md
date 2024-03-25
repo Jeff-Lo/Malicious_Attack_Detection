@@ -1,7 +1,7 @@
 # Malicious Attack Detection
 
 ## Background
-This is a project for Malicious Attack Detection. We would like to detect malicious attacks from network packets. Our goal is to use our trained model to classify an incoming packet to be benign or malicious.
+This is a project for implementing malicious attack detection via Autoencoder, Neural Network Model, and Machine Learning. We would like to detect malicious attacks from network packets. Our goal is to use our trained model to classify an incoming packet to be benign or malicious.
 
 ## Develop Environment
 * **Environment:** Colab
